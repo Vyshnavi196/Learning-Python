@@ -36,4 +36,4 @@ I am following the official [roadmap.sh Python Developer Roadmap](https://roadma
 
 ## 🛠️ Projects
 
-- Number Guessing Game
+- Number Guessing Game (CLI)
